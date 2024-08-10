@@ -15,6 +15,7 @@ Compare with Java, Swift and Python
 - [List](./comparisions/lists.md)
 - [Set](./comparisions/sets.md)
 - [Dictionary](./comparisions/dictionary.md)
+- [Initializations](./comparisions/initializations.md)
 - [Deque](./comparisions/deque.md)
 - [Priority Queue](./comparisions/priority_queue.md)
 - [Objects Sorting](./comparisions/object_sorting.md)
