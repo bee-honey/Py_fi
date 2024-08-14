@@ -1,12 +1,9 @@
-# Py_fi
+# Question Bank for Software Developers
+
+
 Reference material for Python
 
-Quick Refresher for Python before Interviews
-
 - [Libraries](./libraries/libraries.md)
-
-Quick Refresher for Python before Interviews
-
 - [None vs truthy](./concepts/NoneVsTruthy.md)
 - [range](./concepts/range.md)
 
