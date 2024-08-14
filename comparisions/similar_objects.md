@@ -98,7 +98,8 @@ class Person:
         return False
 
     def __hash__(self):
-        return hash((self.name, self.age))
+        return hash((self.name, self.age)) #Here we are hasing only after its converted to a tuple
+        #Same way as we need to hash any mutable objects to add them to sets/dicts
 
     def __repr__(self):
         return f"{self.name} ({self.age})"

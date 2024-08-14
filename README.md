@@ -3,7 +3,12 @@ Reference material for Python
 
 Quick Refresher for Python before Interviews
 
-- [Libraries](./libraries/libraries.md) : For more information about commonly used libraries, please refer to 
+- [Libraries](./libraries/libraries.md)
+
+Quick Refresher for Python before Interviews
+
+- [None vs truthy](./concepts/NoneVsTruthy.md)
+- [range](./concepts/range.md)
 
 
 Compare with Java, Swift and Python
