@@ -2,5 +2,8 @@
 
 Reference material
 
-- [Python](./Python/README.md)
 - [System Design](./SysDesign/README.md)
+- [Java](./Java/README.md)
+- [Spring](./Spring/README.md)
+- [DB](./DB/README.md)
+- [Python](./Python/README.md)
