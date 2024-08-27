@@ -1,5 +1,12 @@
 # Question Bank for Software Developers
 
+OOP
+
+- [OOP Concepts](./OOP/java_concepts.md)
+- [Concurrency](./OOP/concurrency.md)
+- [Threads](./OOP/threads.md)
+
+
 Reference material for Python
 
 - [Libraries](./libraries/libraries.md)
@@ -23,3 +30,6 @@ Compare with Java, Swift and Python
 - [Objects Sorting](./comparisions/object_sorting.md)
 - [Similar Objects](./comparisions/similar_objects.md)
 - [Min and Max](./comparisions/min_max.md)
+
+
+Spring & SpringBoot
