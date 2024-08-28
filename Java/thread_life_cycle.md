@@ -7,6 +7,37 @@
 - 4 - Waiting (specific time/sleep)
 - 5 - Terminated
 
+**State** : To check the state of the 
+
+  ```java
+    Runnable r1 = new Runnable() {
+        @Override
+        public void run() {
+            for(int i = 0; i < 3; i++) {
+                System.out.println("R1 : " + i);
+            }
+        }
+    }
+    Thread t1 = new Thread(r1);
+
+    System.out.println(t1.getState());
+
+    t1.start();
+
+    System.out.println(t1.getState());
+
+    t2.start(): //LETs assume theres another thtread
+
+    System.out.println(t1.getState());
+
+
+    /*
+    WAITING
+    RUNNABLE
+    TERMINATED
+    */
+
+  ```
 
 **Join**
 
