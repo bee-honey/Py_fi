@@ -1,12 +1,5 @@
 # Question Bank for Software Developers
 
-OOP
-
-- [OOP Concepts](./OOP/java_concepts.md)
-- [Concurrency](./OOP/concurrency.md)
-- [Threads](./OOP/threads.md)
-
-
 Reference material for Python
 
 - [Libraries](./libraries/libraries.md)
